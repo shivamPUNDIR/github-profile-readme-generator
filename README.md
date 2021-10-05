@@ -9,7 +9,6 @@
 
 
 
-<!-- <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p> -->
 
 
 
