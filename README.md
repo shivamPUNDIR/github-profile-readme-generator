@@ -1,6 +1,6 @@
 <p align="center">
  
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+   
   </a>
 </p>
 <h1 align="center">
